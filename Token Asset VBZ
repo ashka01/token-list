@@ -1,0 +1,13 @@
+{
+      "chainId": 101,
+      "address": "A6LpRGcuPREg7L9qACRhxgJ2YRJmopsvLbpvj5xS5Z8D",
+      "symbol": "VBZ",
+      "name": "Virtual Blitz",
+      "decimals": 9,
+      "logoURI": "https://www.linkpicture.com/view.php?img=LPic61b87bc763a651542507080",
+      "tags": [
+        "Asset representing liquidity provider token"
+      ],
+      "extensions": {
+        "discord": ""
+      }
