@@ -1,0 +1,11 @@
+    },
+    {
+      "chainId": 101,
+      "address": "EBpXbDyW13mGnzC5GXuppu7ZUeeiFfXUsTfGcT6w75tu",
+      "symbol": "VCTK",
+      "name": "Virtual Coinage",
+      "decimals": 4,
+      "logoURI": "https://user-images.githubusercontent.com/94101995/149660688-62ace851-c10b-411c-8185-f0bf1c6de551.png",
+      "tags": [
+        "social-token"
+      ]
